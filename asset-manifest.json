@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Shuji-Portfolio/static/css/main.5cbf456c.chunk.css",
+    "main.js": "/Shuji-Portfolio/static/js/main.56650a32.chunk.js",
+    "main.js.map": "/Shuji-Portfolio/static/js/main.56650a32.chunk.js.map",
+    "runtime-main.js": "/Shuji-Portfolio/static/js/runtime-main.8555dfe5.js",
+    "runtime-main.js.map": "/Shuji-Portfolio/static/js/runtime-main.8555dfe5.js.map",
+    "static/js/2.ba2961a0.chunk.js": "/Shuji-Portfolio/static/js/2.ba2961a0.chunk.js",
+    "static/js/2.ba2961a0.chunk.js.map": "/Shuji-Portfolio/static/js/2.ba2961a0.chunk.js.map",
+    "index.html": "/Shuji-Portfolio/index.html",
+    "static/css/main.5cbf456c.chunk.css.map": "/Shuji-Portfolio/static/css/main.5cbf456c.chunk.css.map",
+    "static/js/2.ba2961a0.chunk.js.LICENSE.txt": "/Shuji-Portfolio/static/js/2.ba2961a0.chunk.js.LICENSE.txt",
+    "static/media/Quiz-App.980e881a.png": "/Shuji-Portfolio/static/media/Quiz-App.980e881a.png",
+    "static/media/Shuji's-Portfolio.7d3673b3.png": "/Shuji-Portfolio/static/media/Shuji's-Portfolio.7d3673b3.png",
+    "static/media/Todo-App.82faa101.png": "/Shuji-Portfolio/static/media/Todo-App.82faa101.png",
+    "static/media/TwitterIcon.7571acbc.PNG": "/Shuji-Portfolio/static/media/TwitterIcon.7571acbc.PNG",
+    "static/media/Weather-SPA-App.bffc6c38.png": "/Shuji-Portfolio/static/media/Weather-SPA-App.bffc6c38.png",
+    "static/media/clock.a51c39d4.png": "/Shuji-Portfolio/static/media/clock.a51c39d4.png",
+    "static/media/create-acount.b810fba6.png": "/Shuji-Portfolio/static/media/create-acount.b810fba6.png",
+    "static/media/mountain.8ec4b20a.jpg": "/Shuji-Portfolio/static/media/mountain.8ec4b20a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8555dfe5.js",
+    "static/js/2.ba2961a0.chunk.js",
+    "static/css/main.5cbf456c.chunk.css",
+    "static/js/main.56650a32.chunk.js"
+  ]
+}
